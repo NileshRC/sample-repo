@@ -1,3 +1,5 @@
 new file
 changed
 this is also from master
+
+Now this  is changed in newbranch
